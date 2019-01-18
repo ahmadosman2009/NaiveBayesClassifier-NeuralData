@@ -1,2 +1,9 @@
 # NaiveBayesClassifier-NeuralData
-PhD thesis code used for sound classifications based on neural data recorded in vivo. Work published in JofNeuroscience.
+PhD thesis code used for sound classifications (Naive Bayes) based on neural data recorded in vivo. Work published in JofNeuroscience.
+
+## Abstract:
+
+Auditory cortex is essential for mammals, including rodents, to detect temporal “shape” cues in the sound envelope but it remains unclear how different cortical fields may contribute to this ability (Lomber and Malhotra, 2008; Threlkeld et al., 2008). Previously, we found that precise spiking patterns provide a potential neural code for temporal shape cues in the sound envelope in the primary auditory(A1), and ventral auditory field (VAF) and caudal suprarhinal auditory field (cSRAF) of the rat (Lee et al., 2016). Here, we extend these findings and characterize the time course of the temporally precise output of auditory cortical neurons in male rats. A pairwise sound discrimination index and a Naive Bayesian classifier are used to determine how these spiking patterns could provide brain signals for behavioral discrimination and classification of sounds.Wefind response durations and optimal time constants for discriminating sound envelope shape increase in rank order with: A1VAFcSRAF. Accordingly, sustained spiking is more prominent and results in more robust sound discrimination in non-primary cortex versus A1. Spike-timing patterns classify 10 different sound envelope shape sequences and there is a twofold increase in maximal performance when pooling output across the neuron population indicating a robust distributed neural code in all three cortical fields. Together, these results support the idea that temporally precise spiking patterns from primary and non-primary auditory cortical fields provide the necessary signals for animals to discriminate and classify a large range of temporal shapes in the sound envelope.
+
+## Publication Link
+http://www.jneurosci.org/content/38/31/6967
